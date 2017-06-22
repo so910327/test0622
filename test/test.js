@@ -31,6 +31,9 @@ describe('assert', function () {
 
   it('assert', function () {
     assert.equal(4, 1+3, 'addSum');
+  });
 
+  it('assert', function () {
+    assert.equal(5, '5', 'toString');
   });
 });
