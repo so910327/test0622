@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "codeship&amp;swagger-restify",
   "main": "add.js",
-  "dependencies": {},
+  "dependencies": {
+    "nodemon": "^1.11.0",
+    "restify": "^4.3.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
