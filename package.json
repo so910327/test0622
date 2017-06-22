@@ -1,0 +1,21 @@
+{
+  "name": "test0622",
+  "version": "1.0.0",
+  "description": "codeship&amp;swagger-restify",
+  "main": "add.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/so910327/test0622.git"
+  },
+  "author": "tingru.chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/so910327/test0622/issues"
+  },
+  "homepage": "https://github.com/so910327/test0622#readme"
+}
